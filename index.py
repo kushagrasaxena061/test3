@@ -1,6 +1,6 @@
 import random
 
-print("random programmer")
+print('random program')
 
 print("Random program at the top")
 
