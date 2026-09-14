@@ -1,6 +1,6 @@
 import random
 
-print('hello')
+#print('hello')
 print('random program at the top')
 print('random program')
 print('random program')
