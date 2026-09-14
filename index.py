@@ -1,6 +1,8 @@
 import random
 
-print("random program")
+print("random programmer")
+
+print("Random program at the top")
 
 for _ in range(100):
     code = ''
