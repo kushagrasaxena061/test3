@@ -1,6 +1,8 @@
 import random
 
+print('hello')
 print('random program')
+print('random program')'
 
 print("Random program at the top")
 
