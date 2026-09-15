@@ -14,5 +14,5 @@ for i in range(1, 21):
 for _ in range(100):
     code = ''
     for _ in range(random.randint(1, 5)):
-        code += random.choice('print("Hello, world!");\n'
+        code += random.choice('print("Hello, world!");')
     # Removed print(code) as per instruction
