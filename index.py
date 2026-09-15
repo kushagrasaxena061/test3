@@ -7,6 +7,9 @@ print('random program')
 print('random program')
 
 print("Random program at the top")
+for i in range(1, 21):
+    print(i)
+    print(i)
 
 for _ in range(100):
     code = ''
